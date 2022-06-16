@@ -35,9 +35,7 @@ const readMeQuestions = () => {
             type: 'list',
             name: 'license',
             message: 'Choose a license.',
-            choices: ['Apache License 2.0', 'BSD Revised (3 clause) License',
-            'FreeBSD (2 clause) License', 'GNU GPL', 'LGPL', 'MIT', 'Mozilla Public License 2.0',
-            'Common Development and Distribution License', 'Eclipse Public License V2.0', 'No License/None of Above'
+            choices: ['apache-2.0', 'gpl', 'mit', 'None'
             ],
         },
     // License (select from list, applies badge to readme)
@@ -56,7 +54,7 @@ const readMeQuestions = () => {
         {
             type: 'input',
             name: 'questions',
-            message: 'Who and how to contact with questions.',
+            message: 'Enter your email address.',
         }
     ])
 // Questions
