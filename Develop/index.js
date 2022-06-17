@@ -35,7 +35,7 @@ const readMeQuestions = () => {
             type: 'list',
             name: 'license',
             message: 'Choose a license.',
-            choices: ['apache-2.0', 'gpl', 'mit', 'None'
+            choices: ['apache2', 'mpl2', 'mit', 'None'
             ],
         },
     // License (select from list, applies badge to readme)
