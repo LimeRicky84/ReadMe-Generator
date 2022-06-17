@@ -54,7 +54,7 @@ const readMeQuestions = () => {
         {
             type: 'input',
             name: 'questions',
-            message: 'Enter your email address.',
+            message: 'Enter your github username.',
         }
     ])
 // Questions

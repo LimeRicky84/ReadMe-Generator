@@ -1,12 +1,10 @@
-# asdf
-
-  ## License  ![img](./utils/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667.svg)
-  
-  (https://opensource.org/licenses/MIT)
+# README Generator
   
   ## Description
   
-  dfgh
+  Node.js Program that generates ReadMe files
+  github link: https://github.com/LimeRicky84/ReadMe-Generator
+  Demonstration video link:
   
   ## Table of Contents
 
@@ -18,23 +16,23 @@
   
   ## Installation
   
-  vbnm
+  Git Pull
   
   ## Usage
   
-  dfgh
+  Open file with node index in bash or terminal
   
   ## Contributions
   
-  erty
+  None
   
   ## Tests
   
-  fghj
+  Give it a spin
   
-  ## Questions/Contact
+  ## Questions
   
-  Email me with questions about this program here: vbh@iyahoo.com
+  https://github.com/LimeRicky84
   
-  
+  ##
   

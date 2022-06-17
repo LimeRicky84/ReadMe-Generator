@@ -61,6 +61,7 @@ function generateMarkdown(data) {
 
   ## License  ${licenses(data.license)}
   
+  See the following link for license info: 
   ${licenseLink(data.license)}
   
   ## Description
@@ -91,9 +92,9 @@ function generateMarkdown(data) {
   
   ${data.tests}
   
-  ## Questions/Contact
+  ## Questions
   
-  Email me with questions about this program here: ${data.questions}
+  https://github.com/${data.questions}
   
   
   `;
